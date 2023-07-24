@@ -12,7 +12,7 @@ SRC_URI = " \
 	file://${THISDIR}/files/cgroups.cfg \
 "
 
-SRCREV = "f5afcaa98fce01573421a7aa8d2c6d93b3ad8083"
+SRCREV = "8f0fde4d2375ff0d839eb980cc221eb72c03e60a"
 
 S = "${WORKDIR}/git"
 B = "${WORKDIR}/build"
