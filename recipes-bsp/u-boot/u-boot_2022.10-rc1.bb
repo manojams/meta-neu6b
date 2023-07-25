@@ -12,7 +12,7 @@ SRC_URI += " \
 	file://rv1126_tee_ta_v1.12.bin \
 	"
 
-SRCREV = "e1fb5a4ac1c540bfdd84b3eeaa13db890e34cfaf"
+SRCREV = "319cee2d2723f77896d2b16f128846062f94d13a"
 
 S = "${WORKDIR}/git"
 B = "${WORKDIR}/build"
